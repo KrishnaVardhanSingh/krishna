@@ -1,0 +1,122 @@
+@media(max-width: 1200px)
+{
+  /* #desktop-nav{
+    display: block;
+    padding: 1rem 4rem;
+  }
+  section{
+    display: block;
+  }
+  .main-image{
+    width: 100%;
+    margin: 0 0;
+  }
+  #profile-image{
+    width: 18rem;
+  }
+  .detail{
+    width: 100%;
+  } */
+  /* .skills{
+    flex-wrap: wrap;
+  } */
+  section{
+    display: block;
+    height: 80vh;
+  }
+  #profile{
+    display: block;
+
+  }
+  .main-image{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+  #profile-image{
+    width: 20rem;
+  }
+  .detail{
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+
+  #about{
+    height: fit-content;
+  }
+  .about-data{
+    display: block;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 100%;
+  }
+  .about-img{
+  width: 100%;
+  /* border: 2px solid black; */
+  justify-content: center;
+  align-items: center;
+  margin: 2rem auto;
+  padding: 0 auto;
+  /* background-color: antiquewhite; */
+}
+  #about-image{
+    width: 15rem;
+  }
+
+  .about-text{
+    margin: 0 auto;
+  }
+  .about-text-{
+    display: block;
+    margin: 0 auto;
+    padding: 0 auto;
+  }
+  #about-text-one{
+    width: 100%;
+    margin-bottom: 2rem;
+  }
+  #about-text-two{
+    width: 100%;
+  }
+  .about-text--{
+    margin: 2rem auto;
+    padding-right: 0%;
+    justify-content: center;
+  }
+
+
+  #experience-sec{
+    height: fit-content;
+  }
+  .skills{
+    display: block;
+    /* background-color: antiquewhite; */
+    
+    padding: 0 20%;
+    
+  }
+  .skill1{
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  .skill-list{
+    /* flex-wrap: wrap; */
+    flex-direction: column;
+    /* justify-content: center; */
+    padding: 2rem 0;
+    /* background-color: antiquewhite; */
+
+  }
+  #skill-sub-title{
+    text-align: center;
+  }
+  .box{
+    width: fit-content;
+    margin: 0 auto;
+  }
+}
+
